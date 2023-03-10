@@ -1,7 +1,5 @@
 package frank.lucassen.java.KI.Blatt7;
 
-import frank.lucassen.java.KI.Hopfield;
-
 public class Aufgabe2 {
     public static void main(String[] args) {
 //        one();

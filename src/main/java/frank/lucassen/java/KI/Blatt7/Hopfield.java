@@ -1,4 +1,4 @@
-package frank.lucassen.java.KI;
+package frank.lucassen.java.KI.Blatt7;
 
 import java.util.Arrays;
 
